@@ -1,0 +1,1 @@
+web: gunicorn api_ocorrencias.wsgi --log-file -
